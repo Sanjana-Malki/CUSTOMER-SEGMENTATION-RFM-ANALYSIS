@@ -11,7 +11,7 @@ The project uses the Online Retail II dataset from the UCI Machine Learning Repo
 
 Due to its large file size, the dataset is not included in this GitHub repository.
 
-**Dataset Source:** [Download Online Retail II Dataset](https://archive.ics.uci.edu/dataset/502/online+retail+ii)](https://www.kaggle.com/datasets/mashlyn/online-retail-ii-uci)
+**Dataset Source:** [[Download Online Retail II Dataset](https://archive.ics.uci.edu/dataset/502/online+retail+ii)](https://www.kaggle.com/datasets/mashlyn/online-retail-ii-uci)
 
 ## Business Objectives
 - Identify high-value and at-risk customers.
