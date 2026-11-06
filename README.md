@@ -73,15 +73,20 @@ At Risk – 30% | Champions – 30% | Loyal Customers – 20% | Potential Loyali
 ## Project Outcome
 Developed an interactive customer analytics solution that transforms raw retail transaction data into meaningful customer segments and actionable marketing strategies.
 
+
 ## Dashboard Screenshots
 
 ### 1. Executive Overview
-![Executive Overview](screenshots/Executive-Overview.png)
+
+![Executive Overview](./screenshots/overview.png)
 
 ### 2. RFM Customer Segmentation
-![RFM Segmentation](screenshots/rfm-segmentation.png)
+
+![RFM Segmentation](./screenshots/rfm-segmentation.png)
 
 ### 3. Retention & Strategy
-![Retention Strategy](screenshots/retention-strategy.png)
+
+![Retention Strategy](./screenshots/retention-strategy.png)
+
 
 
