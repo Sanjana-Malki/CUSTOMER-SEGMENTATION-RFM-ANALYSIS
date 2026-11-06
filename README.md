@@ -76,7 +76,7 @@ Developed an interactive customer analytics solution that transforms raw retail 
 ## Dashboard Screenshots
 
 ### 1. Executive Overview
-![Executive Overview](screenshots/overview.png)
+![Executive Overview](screenshots/Executive-Overview.png)
 
 ### 2. RFM Customer Segmentation
 ![RFM Segmentation](screenshots/rfm-segmentation.png)
