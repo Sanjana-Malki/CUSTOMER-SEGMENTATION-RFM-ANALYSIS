@@ -5,6 +5,14 @@ This project analyzes customer purchasing behavior using **RFM (Recency, Frequen
 
 Using Python and Power BI, I cleaned and analyzed retail transaction data, segmented customers into five groups, and developed an interactive dashboard with actionable business recommendations.
 
+## Dataset
+
+The project uses the Online Retail II dataset from the UCI Machine Learning Repository.
+
+Due to its large file size, the dataset is not included in this GitHub repository.
+
+**Dataset Source:** [Download Online Retail II Dataset](https://archive.ics.uci.edu/dataset/502/online+retail+ii)](https://www.kaggle.com/datasets/mashlyn/online-retail-ii-uci)
+
 ## Business Objectives
 - Identify high-value and at-risk customers.
 - Understand customer purchasing patterns.
